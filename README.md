@@ -13,7 +13,7 @@
 
 - Abra um terminal de sua preferência;
 
-- Utilize o comando `git clone https://gitlab.com/iurigms/crud-desenvolvedores` para clonar o repositório;
+- Utilize o comando `git clone https://github.com/monteiroIuri/crud-desenvolvedores` para clonar o repositório;
 
 - Acesse a pasta **crud-desenvolvedores** e execute o arquivo de instalação com o comando: `.\install.sh`;
 
